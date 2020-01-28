@@ -13,9 +13,7 @@
       <Card.Meta>
         <span className='date'>{this.props.type}</span>
       </Card.Meta>
-      <Card.Description>
-        Matthew is a musician living in Nashville.
-      </Card.Description>
+
     </Card.Content>
     <Card.Content extra>
       <a href={this.props.url}> 
